@@ -15,6 +15,7 @@
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
   <a href="https://github.com/LuizLimaM/Site-Curriculo-IW"><img align="right"  height="175" width="175" src="https://media.discordapp.net/attachments/423197554331746332/914861111189311509/Webp.net-gifmaker.gif?width=513&height=513" /></a>
 </div>
   
